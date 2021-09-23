@@ -50,7 +50,7 @@ section{
 }
 #full-stack{
     border-right: 7px solid;
-    border-image: linear-gradient(180deg, lightsalmon,tomato);
+    border-image: linear-gradient(180deg, red,gray);
     border-image-slice: 1;
 }
 #baby-web{
